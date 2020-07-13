@@ -23,3 +23,4 @@ The performances of different models ranging from computationally fast shallow l
 ## Pre-Trained BERT
 - Pre-Trained BERT tokens from HuggingFace was used to tokenize the tweets. The model was then trained and it achieved rank 19 on the hackathon.
 # Results
+![alt tag](https://user-images.githubusercontent.com/54212042/87355122-6f78e800-c57d-11ea-9cb8-8bf97c795813.png)
